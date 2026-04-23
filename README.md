@@ -36,4 +36,4 @@ Przeprowadzona analizę wskazuje, że:
 - liczba pojazdów elektrycznych w stanie Waszyngton dynamicznie rośnie
 - udział pojazdów w pełni elektrycznych systematycznie zwiększa się kosztem hybryd typu plug-in
 - Tesla pozostaje dominującą marka w wielu regionach
-- czynniki technologiczne, takie jak zasię pojazdu oraz rok produkcji, mają istotny wpływ na pozycję rynkową pojazdów
+- czynniki technologiczne, takie jak zasięg pojazdu oraz rok produkcji, mają istotny wpływ na pozycję rynkową pojazdów
